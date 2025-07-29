@@ -10,7 +10,7 @@ QT не младше версии 6.6.1, qmake
 mingw 
 
 Для сборки выполните
-'''
+```
 qmake your_project.pro
 mingw32-make
-'''
+```
